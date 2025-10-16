@@ -23,7 +23,7 @@ Este projeto foi criado com o objetivo de praticar habilidades em front-end e ex
 
 ## 📸 Preview
 
-
+https://audiobooks-eight.vercel.app/
 *Interface simples e funcional para ouvir seus livros favoritos*
 
 ## 📂 Estrutura de pastas
